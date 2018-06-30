@@ -1,5 +1,5 @@
 # TheMaze
-*** It is really important to note that I removed the GoogleVR folder from the assests folder, if you could re-add it before running that would be appreciated as I could not upload such a large file to github. ***
+*** I am resubmitting the whole project this time with the assests folder compressed please extract it before attempting to run the project***
 
 This is a maze made using the given udacity prefabs supplied, all code given was not changed and all code added is my own code written with knowledge given by the Udacity course.
 
