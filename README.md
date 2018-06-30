@@ -1,5 +1,10 @@
 # TheMaze
-*** I am resubmitting the whole project this time with the assests folder compressed please extract it before attempting to run the project***
+*** I am resubmitting the whole project this time with the assests folder compressed please extract it before attempting to run the project
+
+
+If I look at properties in git hub the file is 155MB so you may have downloaded it wrong?***
+
+ 
 
 This is a maze made using the given udacity prefabs supplied, all code given was not changed and all code added is my own code written with knowledge given by the Udacity course.
 
